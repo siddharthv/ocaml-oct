@@ -1,0 +1,11 @@
+# OASIS_START
+# DO NOT EDIT (digest: d6cdfc1b18ace58a351a90e3d0cc5814)
+version = "0.1"
+description = "Octal Converter"
+archive(byte) = "oct.cma"
+archive(byte, plugin) = "oct.cma"
+archive(native) = "oct.cmxa"
+archive(native, plugin) = "oct.cmxs"
+exists_if = "oct.cma"
+# OASIS_STOP
+

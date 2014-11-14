@@ -1,0 +1,13 @@
+OASISFormat: 0.4
+Name:        oct
+Version:     0.1
+Synopsis:    Octal Converter
+Authors:     Siddharth Vinothkumar
+License:     GPL
+Plugins:     META (0.4), StdFiles (0.4)
+
+Library oct
+  Path:       lib/
+  BuildTools: ocamlbuild
+  Modules:    Oct
+  
